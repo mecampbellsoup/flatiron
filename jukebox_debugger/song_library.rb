@@ -3,7 +3,7 @@ def full_library
     :"U2" => {
       :albums => {
         :"The Joshua Tree" => {
-          :songs => ["With or Without You", "Still Haven't Found What I'm Looking For", "Bullet the Blue Sky"]
+          :songs => ["With Or Without You", "Still Haven't Found What I'm Looking For", "Bullet the Blue Sky"]
         },
         :"Zooropa" => {
           :songs => ["Numb"]
