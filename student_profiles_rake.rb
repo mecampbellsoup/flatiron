@@ -113,6 +113,5 @@ class Student
     end
     self.code_profiles
   end
-  # # code_profiles = @student_doc.css('div.column.fourth a').map { |cp| cp.attr('href') }
 
 end
